@@ -753,7 +753,6 @@ div#blogs-container p {
 .blogs .box-container .box .footer-icons {
   display: flex;
   justify-content: flex-end;
-  margin-right: auto;
   font-size: 20px;
 }
 
